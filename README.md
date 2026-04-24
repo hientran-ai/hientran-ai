@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Hien Tran 🎀
 
-```text
 🌸 A student learning AI with a focus on Data Science
 📊 Interested in Data, Machine Learning, and Computer Vision
 
