@@ -1,10 +1,27 @@
+<table>
+<tr>
+<td width="58%">
+
 # 👋 Hi, I'm Hien Tran 🎀
 
 🌸 A student learning AI focus on Data Science  
 📊 Interested in Data, Machine Learning, and Computer Vision  
+💌 Still learning, building step by step
 
 📫 Email: [thuhienhien12211@gmail.com](mailto:thuhienhien12211@gmail.com)  
-🔗 GitHub: [https://github.com/hientran-ai](https://github.com/hientran-ai)
+🔗 GitHub: [github.com/hientran-ai](https://github.com/hientran-ai)
+
+</td>
+
+<td width="42%">
+
+<p align="right">
+<img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="220"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,11 +76,22 @@
 
 # 📊 GitHub Stats
 
+<table>
+<tr>
+<td width="50%">
+
 ![](https://github-readme-stats.vercel.app/api?username=hientran-ai&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hientran-ai&theme=radical)
+</td>
+<td width="50%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hientran-ai&layout=compact&theme=radical)
+
+</td>
+</tr>
+</table>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hientran-ai&theme=radical)
 
 ---
 
@@ -74,5 +102,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </p>
