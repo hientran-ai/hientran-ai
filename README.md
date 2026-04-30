@@ -8,21 +8,20 @@
 📊 Interested in Data, Machine Learning, and Computer Vision  
 💌 Still learning, building step by step  
 
-📫 Email: [thuhienhien12211@gmail.com](mailto:thuhienhien12211@gmail.com)  
-🔗 GitHub: [github.com/hientran-ai](https://github.com/hientran-ai)
+📫 Email: thuhienhien12211@gmail.com  
+🔗 github.com/hientran-ai
 
 </td>
 
 <td width="42%">
 
 <p align="center">
-<img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="240"/>
+<img src="./e34a8af55e9d3bf9db38b9248e83c6a5.jpg" width="240"/>
 </p>
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 💻 Tech Stack
