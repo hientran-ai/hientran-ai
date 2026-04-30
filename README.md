@@ -1,21 +1,5 @@
 # 👋 Hi, I'm Hien Tran 🎀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Student+%F0%9F%8E%80;Data+Science+Learner+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%92%97;Welcome+to+my+GitHub+%F0%9F%8C%B8;AI+Student+%F0%9F%8E%80;Future+Data+Scientist+%F0%9F%92%96" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="220"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=130&section=header&text=Hien%20Tran&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</p>
-
 🌸 A student learning AI focus on Data Science  
 📊 Interested in Data, Machine Learning, and Computer Vision  
 
