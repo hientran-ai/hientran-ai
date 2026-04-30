@@ -6,7 +6,7 @@
 
 🌸 A student learning AI focus on Data Science  
 📊 Interested in Data, Machine Learning, and Computer Vision  
-💌 Still learning, building step by step
+💌 Still learning, building step by step  
 
 📫 Email: [thuhienhien12211@gmail.com](mailto:thuhienhien12211@gmail.com)  
 🔗 GitHub: [github.com/hientran-ai](https://github.com/hientran-ai)
@@ -15,8 +15,8 @@
 
 <td width="42%">
 
-<p align="right">
-<img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="220"/>
+<p align="center">
+<img src="https://i.pinimg.com/originals/6a/4b/47/6a4b47e9d7f5d4f3f0a0e4f9c8b0e5c7.gif" width="250"/>
 </p>
 
 </td>
@@ -27,46 +27,30 @@
 
 # 💻 Tech Stack
 
-## 📌 Programming Languages
+### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
----
-
-## 📊 Data Science & Analysis
+### 📊 Data Science
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
----
-
-## 🤖 Machine Learning & AI
+### 🤖 AI / ML
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-## 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
 
----
-
-## 🌐 Web / App Development
+### 🌐 Development
 ![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🛢️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## 🛠️ Tools & Platforms
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
