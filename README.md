@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="100%">
+<div align="center">
 
 # 👋 Hi, I'm Hien Tran 🎀
 
@@ -9,13 +7,15 @@
 💌 Still learning, building step by step  
 
 📫 Email: thuhienhien12211@gmail.com  
-🔗 github.com/hientran-ai
+🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
 
-</tr>
-</table>
+</div>
+
 ---
 
 # 💻 Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -34,14 +34,17 @@
 
 ![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
+
 ---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -52,11 +55,14 @@
 <p align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hientran-ai&theme=radical" />
 </p>
+
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hientran-ai&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hientran-ai&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
