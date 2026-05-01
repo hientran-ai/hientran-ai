@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="58%">
+<td width="70%">
 
 # 👋 Hi, I'm Hien Tran 🎀
 
