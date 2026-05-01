@@ -42,26 +42,16 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hientran-ai&show_icons=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hientran-ai&layout=compact&theme=radical" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=hientran-ai&show_icons=true&theme=radical)
-
-</td>
-<td width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hientran-ai&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hientran-ai&theme=radical)
-
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hientran-ai&theme=radical" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
