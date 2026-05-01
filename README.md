@@ -11,15 +11,6 @@
 📫 Email: thuhienhien12211@gmail.com  
 🔗 github.com/hientran-ai
 
-</td>
-
-<td width="42%">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hientran-ai/hientran-ai/main/e34a8af55e9d3bf9db38b9248e83c6a5.jpg" width="240"/>
-</p>
-
-</td>
 </tr>
 </table>
 ---
