@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="140"/>
+
 # 👋 Hi, I'm Hien Tran 🎀
 
 🌸 A student learning AI focus on Data Science  
