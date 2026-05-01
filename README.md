@@ -6,7 +6,6 @@
 
 🌸 A student learning AI focus on Data Science  
 📊 Interested in Data, Machine Learning, and Computer Vision  
-💌 Still learning, building step by step  
 
 📫 Email: thuhienhien12211@gmail.com  
 🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
