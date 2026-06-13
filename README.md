@@ -5,7 +5,6 @@
 # 👋 Hi, I'm Hien Tran 🎀
 
 🌸 A student learning AI focus on Data Science  
-📊 Interested in Data, Machine Learning, and Computer Vision  
 
 📫 Email: thuhienhien12211@gmail.com  
 🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
