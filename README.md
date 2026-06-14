@@ -1,32 +1,13 @@
 <div align="center">
 
 <img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="140"/>
-
 # 👋 Hi, I'm Hien Tran 🎀
 # 💫 About Me
 
-🌱 Currently learning:
-- LLMs
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- MLOps
+🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, MLOps
 
 🔭 Currently working on:
 - Explainable AI for Inventory Management using SHAP + LLM
-
-👯 Open to collaborating on:
-- AI Systems
-- Machine Learning
-- Data Science
-- Explainable AI Projects
-
-💬 Ask me about:
-- Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- MLOps
-
 ---
 
 📫 Email: thuhienhien12211@gmail.com  
