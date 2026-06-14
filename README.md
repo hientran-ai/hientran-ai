@@ -4,7 +4,11 @@
 
 # 👋 Hi, I'm Hien Tran 🎀
 
-🌸 A student learning AI focus on Data Science  
+🔬 Exploring:
+• Machine Learning
+• Explainable AI (XAI)
+• Large Language Models (LLMs)
+• Data Science
 
 📫 Email: thuhienhien12211@gmail.com  
 🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
