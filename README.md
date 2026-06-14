@@ -4,7 +4,6 @@
 
 # 👋 Hi, I'm Hien Tran 🎀
 
-💫 About Me
 🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, MLOps
 
 🔭 Currently working on:
