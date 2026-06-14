@@ -3,8 +3,8 @@
 <img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="140"/>
 
 # 👋 Hi, I'm Hien Tran 🎀
-# 💫 About Me
 
+💫 About Me
 🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, MLOps
 
 🔭 Currently working on:
