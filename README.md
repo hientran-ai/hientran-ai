@@ -2,13 +2,12 @@
 
 <img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="140"/>
 
- I'm Hien Tran 🎀
+ I'm Hien Tran !
 
-🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI
+Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI
 
-🔭 Currently working on:
+Currently working on:
 - Explainable AI for Inventory Management using SHAP + LLM
----
 
 📫 Email: thuhienhien12211@gmail.com  
 🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
