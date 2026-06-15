@@ -7,7 +7,7 @@
 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI
 
 Currently working on:
-- Explainable AI for Inventory Management using SHAP + LLM
+ Explainable AI for Inventory Management using SHAP + LLM
 
 📫 Email: thuhienhien12211@gmail.com  
 🔗 [github.com/hientran-ai](https://github.com/hientran-ai)
