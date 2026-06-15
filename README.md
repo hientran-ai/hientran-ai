@@ -2,9 +2,9 @@
 
 <img src="https://media.tenor.com/0GZ8rY4mK9UAAAAi/loopy-pink.gif" width="140"/>
 
-# 👋 Hi, I'm Hien Tran 🎀
+ I'm Hien Tran 🎀
 
-🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, MLOps
+🌱 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI
 
 🔭 Currently working on:
 - Explainable AI for Inventory Management using SHAP + LLM
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=black" />
 <br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <br>
