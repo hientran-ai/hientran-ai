@@ -5,7 +5,6 @@
  I'm Hien Tran !
 
 Currently learning: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI
-
 Currently working on:
  Explainable AI for Inventory Management using SHAP + LLM
 
